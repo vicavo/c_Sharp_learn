@@ -1,0 +1,14 @@
+C:\Users\vicavo\Documents\Visual Studio 2015\Projects\CalcCmdTime\CalcCmdTime\bin\Debug\CalcCmdTime.exe.config
+C:\Users\vicavo\Documents\Visual Studio 2015\Projects\CalcCmdTime\CalcCmdTime\bin\Debug\CalcCmdTime.exe
+C:\Users\vicavo\Documents\Visual Studio 2015\Projects\CalcCmdTime\CalcCmdTime\bin\Debug\CalcCmdTime.pdb
+C:\Users\vicavo\Documents\Visual Studio 2015\Projects\CalcCmdTime\CalcCmdTime\obj\Debug\CalcCmdTime.csprojResolveAssemblyReference.cache
+C:\Users\vicavo\Documents\Visual Studio 2015\Projects\CalcCmdTime\CalcCmdTime\obj\Debug\MainWindow.g.cs
+C:\Users\vicavo\Documents\Visual Studio 2015\Projects\CalcCmdTime\CalcCmdTime\obj\Debug\App.g.cs
+C:\Users\vicavo\Documents\Visual Studio 2015\Projects\CalcCmdTime\CalcCmdTime\obj\Debug\CalcCmdTime_MarkupCompile.cache
+C:\Users\vicavo\Documents\Visual Studio 2015\Projects\CalcCmdTime\CalcCmdTime\obj\Debug\CalcCmdTime_MarkupCompile.lref
+C:\Users\vicavo\Documents\Visual Studio 2015\Projects\CalcCmdTime\CalcCmdTime\obj\Debug\MainWindow.baml
+C:\Users\vicavo\Documents\Visual Studio 2015\Projects\CalcCmdTime\CalcCmdTime\obj\Debug\CalcCmdTime.g.resources
+C:\Users\vicavo\Documents\Visual Studio 2015\Projects\CalcCmdTime\CalcCmdTime\obj\Debug\CalcCmdTime.Properties.Resources.resources
+C:\Users\vicavo\Documents\Visual Studio 2015\Projects\CalcCmdTime\CalcCmdTime\obj\Debug\CalcCmdTime.csproj.GenerateResource.Cache
+C:\Users\vicavo\Documents\Visual Studio 2015\Projects\CalcCmdTime\CalcCmdTime\obj\Debug\CalcCmdTime.exe
+C:\Users\vicavo\Documents\Visual Studio 2015\Projects\CalcCmdTime\CalcCmdTime\obj\Debug\CalcCmdTime.pdb

@@ -1,0 +1,50 @@
+﻿# VPN Client VPN Connection Setting File
+# 
+# This file is exported using VPN Assistant.
+# For more information, please visit http://www.shuyz.com
+# This file comes with no guarantee, you may need to change the config after imported
+
+declare root
+{
+	bool CheckServerCert false
+	uint64 CreateDateTime 0
+	uint64 LastConnectDateTime 0
+	bool StartupAccount false
+	uint64 UpdateDateTime 0
+
+	declare ClientAuth
+	{
+		uint AuthType 0
+		string Username #username#
+	}
+	declare ClientOption
+	{
+		string AccountName #accountname#
+		uint AdditionalConnectionInterval 1
+		uint ConnectionDisconnectSpan 0
+		string DeviceName VPN
+		bool DisableQoS false
+		bool HalfConnection false
+		bool HideNicInfoWindow false
+		bool HideStatusWindow false
+		string Hostname #hostname#
+		string HubName #hubname#
+		uint MaxConnection 1
+		bool NoRoutingTracking false
+		bool NoTls1 false
+		bool NoUdpAcceleration false
+		uint NumRetry 4294967295
+		uint Port #port#
+		uint PortUDP 0
+		string ProxyName $
+		byte ProxyPassword $
+		uint ProxyPort 0
+		uint ProxyType 0
+		string ProxyUsername $
+		bool RequireBridgeRoutingMode false
+		bool RequireMonitorMode false
+		uint RetryInterval 15
+		bool UseCompress false
+		bool UseEncrypt true
+	}
+}

@@ -1,0 +1,19 @@
+﻿<Window x:Class="DownloadFilm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DownloadFilm"
+        mc:Ignorable="d"
+        Title="DownloadMoive" Height="350" Width="525">
+    <Grid>
+        <DataGrid x:Name="fileGrid" AutoGenerateColumns="False" IsReadOnly="True" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding _strName}" Header="Title" />
+                <DataGridTextColumn Binding="{Binding _strUrl}" Header="URL"/>
+                <DataGridTextColumn Binding="{Binding _strTime}" Header="Time"/>
+            </DataGrid.Columns>
+
+        </DataGrid>
+    </Grid>
+</Window>

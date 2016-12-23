@@ -1,0 +1,21 @@
+﻿TODO:
+Jumplist support for win 7
+Launch Job from contect menu
+Auto popup window when DFM exit
+Import Job
+Export Job
+Delete Job
+-- Better performance on start 
+
+DONE:
+-- If the layer name, checklist or other variable has "#", the script will end with error
+-- Quick archive unused sessions
+
+
+NOTDO:
+Ask user to input xmanager path
+
+FAILED:
+Research set GENESIS_DIR and GENESIS_EDIR environment variable for genesis/geflex for current session
+
+

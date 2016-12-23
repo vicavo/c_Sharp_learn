@@ -1,0 +1,44 @@
+[MAIN]
+; If enabled, the DFM Quick Launcher window will hide automatically when DFM is launched.
+HideAfterLaunch=1
+
+; If enabled, the background windows will close automatically when DFM is exited; 
+; if disabled, the background window will stay after DFM is exited, we should close it manually, it's useful for debug.
+CloseCmdAfterRun=1
+
+; If enabled, we can only find DFM Quick Launcher in the notify area, it will hide from the taskbar; 
+; if disabled, we can find it on both notify area and taskbar.
+MinimizedToTrayOnly =1
+
+; If enabled, when we click Exit icon of DFM Quick Launcher window, 
+; DFM Quick Launcher will not exit but minimize to notify area.
+HideOnClose=1
+
+[DFM]
+; The full path of XMANAGER.EXE, XMANAGER will be called before launch Genesis and Geflex.
+XMANAGER=C:\Program Files (x86)\xmanager\XMANAGER.EXE
+
+; Where InCAM versions are kept.
+InCAMBase=D:\InCAM
+
+; Where Genesis/Geflex versions are kept.
+GenBase=D:\Genesis
+
+; The default InCAM version path, this version can be launched from context menu of DFM Quick Launcher.
+InCAMVer=D:\InCAM\release_64
+GenVer=D:\Genesis\e98
+GfxVer=D:\Genesis\e98
+
+; The config file for autotesting, we need it for auto comparing
+ATConfigFilename=run_params
+
+[COMMAND]
+RunBeforeInCAM=
+; switch license file before launch Genesis / Geflex
+RunBeforeGenesis=copy d:\Genesis\share\license\GN00-91D8-53BF-CC31_g d:\Genesis\share\license\GN00-91D8-53BF-CC31
+RunBeforeGeflex=copy d:\Genesis\share\license\GN00-91D8-53BF-CC31_gfx d:\Genesis\share\license\GN00-91D8-53BF-CC31
+
+; command to start and stop insight
+RunStartInsight=start /B D:\InSight\release_insight\bin\InsightServer -debug & D:\InSight\release_insight\AdminTool.Server\InSightNetService.exe  -console
+RunStopInsight=taskkill /im InsightNetService.exe /f & taskkill /im InsightClientApp.exe /f & taskkill /im InsightAdminClientApp.exe /f & taskkill /im InsightServer.exe /f
+

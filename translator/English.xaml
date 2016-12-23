@@ -1,0 +1,190 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:col="clr-namespace:System.Collections;assembly=mscorlib"
+    xmlns:local="clr-namespace:Freezer"
+    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <!--  Global Definations  -->
+    <sys:String x:Key="FZ_AppName">Automatic Freezer Management System</sys:String>
+
+    <sys:String x:Key="FZ_OK">OK</sys:String>
+    <sys:String x:Key="FZ_Cancel">Cancel</sys:String>
+    <sys:String x:Key="FZ_Quit">Quit</sys:String>
+    <sys:String x:Key="FZ_Open">Open</sys:String>
+    <sys:String x:Key="FZ_Close">Close</sys:String>
+    <sys:String x:Key="FZ_Save">Save</sys:String>
+    <sys:String x:Key="FZ_Discard">Discard</sys:String>
+    <sys:String x:Key="FZ_Add">Add</sys:String>
+    <sys:String x:Key="FZ_Modify">Modify</sys:String>
+    <sys:String x:Key="FZ_Delete">Delete</sys:String>
+    <sys:String x:Key="FZ_Yes">Yes</sys:String>
+    <sys:String x:Key="FZ_No">No</sys:String>
+    <sys:String x:Key="FZ_On">On</sys:String>
+    <sys:String x:Key="FZ_Off">Off</sys:String>
+    <sys:String x:Key="FZ_Read">Read</sys:String>
+    <sys:String x:Key="FZ_Write">Write</sys:String>
+    <sys:String x:Key="FZ_Init">Initialize</sys:String>
+    <sys:String x:Key="FZ_Outer">Outer</sys:String>
+    <sys:String x:Key="FZ_Inner">Inner</sys:String>
+    <sys:String x:Key="FZ_Clear">Clear</sys:String>
+    <sys:String x:Key="FZ_PLC">PLC</sys:String>
+    <sys:String x:Key="FZ_Scanner">Scanner</sys:String>
+
+    <sys:String x:Key="FZ_DialogInformation">Information</sys:String>
+    <sys:String x:Key="FZ_DialogWarn">Warnning</sys:String>
+    <sys:String x:Key="FZ_DialogError">Error</sys:String>
+    <sys:String x:Key="FZ_DialogConfirm">Confirmation</sys:String>
+
+    <sys:String x:Key="FZ_LOGIN">Login</sys:String>
+    <sys:String x:Key="FZ_MANAGE_USER">Manage Users</sys:String>
+    <sys:String x:Key="FZ_SETTINGS">Settings</sys:String>
+    <sys:String x:Key="FZ_DEPOSIT">Deposit</sys:String>
+    <sys:String x:Key="FZ_WITHDRAW">Withdraw</sys:String>
+    <sys:String x:Key="FZ_QUERY">Query</sys:String>
+    <sys:String x:Key="FZ_DEBUG">Debug</sys:String>
+    <sys:String x:Key="FZ_Progs">Programs</sys:String>
+    <sys:String x:Key="FZ_NoPerm">Operation not permitted, no permission:</sys:String>
+
+    <sys:String x:Key="FZ_UserID">User ID</sys:String>
+    <sys:String x:Key="FZ_UserName">Name</sys:String>
+    <sys:String x:Key="FZ_UserPass">Passwords</sys:String>
+    <sys:String x:Key="FZ_UserDept">Deptpament</sys:String>
+    <sys:String x:Key="FZ_UserDesc">Description</sys:String>
+    <sys:String x:Key="FZ_UserCreateTime">Create Time</sys:String>
+    <sys:String x:Key="FZ_UserUpdateTime">Updated Time</sys:String>
+    <sys:String x:Key="FZ_UserPermissions">Permissions</sys:String>
+
+    <!--  Login Window  -->
+    <sys:String x:Key="FZ_LoginText">Welcome!</sys:String>
+    <sys:String x:Key="FZ_RemMe">Remember me</sys:String>
+
+    <!--  Main Window  -->
+    <sys:String x:Key="FZ_ExitConfirm">Quit application?</sys:String>
+    <sys:String x:Key="FZ_ExitConfirmMsg">Sure you want to quit application?</sys:String>
+    <sys:String x:Key="FZ_SwitchUser">Sure you want to login out and switch to another account?</sys:String>
+
+    <!--  User Management Window and UserControl  -->
+    <sys:String x:Key="FZ_UMWndTitle">User Management</sys:String>
+    <sys:String x:Key="FZ_UMFlyoutTitle">User Information</sys:String>
+    <sys:String x:Key="FZ_InfoSelectUser">Please select a user!</sys:String>
+    <sys:String x:Key="FZ_InfoDelUser">Are you sure you want to delete this user? You could disable this user instead of deleting.</sys:String>
+    <sys:String x:Key="FZ_InfoEmptyID">Please specify a valid user ID!</sys:String>
+    <sys:String x:Key="FZ_InfoDelSelf">You can not delete your self!</sys:String>
+    <sys:String x:Key="FZ_UserIDOrPassErr">Invalid user id or password!</sys:String>
+
+    <!--  Setttings Window Title  -->
+    <sys:String x:Key="FZ_SetTitle">System Settings</sys:String>
+
+    <sys:String x:Key="FZ_XAxis">X Axis</sys:String>
+    <sys:String x:Key="FZ_YAxis">Y Axis</sys:String>
+    <sys:String x:Key="FZ_ZAxis">Z Axis</sys:String>
+
+    <!--  General Settings  -->
+    <sys:String x:Key="FZ_GeneralSetTitle">General Settings</sys:String>
+    <sys:String x:Key="FZ_GeneralSetTips">General parameters and communication port settings.</sys:String>
+
+    <sys:String x:Key="FZ_SystemSettings">System Settings</sys:String>
+    <sys:String x:Key="FZ_Language">Language</sys:String>
+    <sys:String x:Key="FZ_LogPath">Log File Path</sys:String>
+    <sys:String x:Key="FZ_DebugLog">Debug Log</sys:String>
+    <sys:String x:Key="FZ_ConfirmExit">Confirm On Exit</sys:String>
+
+    <sys:String x:Key="FZ_PortSettings">Port Settings</sys:String>
+    <sys:String x:Key="FZ_PortName">Port Name</sys:String>
+    <sys:String x:Key="FZ_BaudRate">BaudRate</sys:String>
+    <sys:String x:Key="FZ_Parity">Parity</sys:String>
+    <sys:String x:Key="FZ_DataBits">DataBits</sys:String>
+    <sys:String x:Key="FZ_StopBits">StopBits</sys:String>
+    <sys:String x:Key="FZ_Protocol">Protocol</sys:String>
+    <sys:String x:Key="FZ_ReadMode">ReadMode</sys:String>
+    <sys:String x:Key="FZ_EffectOnRestart">Effects on restart</sys:String>
+
+    <!--  PLC Speed Settings  -->
+    <sys:String x:Key="FZ_SpeedTitle">Speed Settings</sys:String>
+    <sys:String x:Key="FZ_SpeedTips">Please adjust the value of &quot;Pulse&quot; before setting other value!</sys:String>
+
+    <sys:String x:Key="FZ_AutoSpeed">Auto Speed</sys:String>
+    <sys:String x:Key="FZ_ManualSpeed">Manual Speed</sys:String>
+    <sys:String x:Key="FZ_DemoSpeed">Demo Speed</sys:String>
+    <sys:String x:Key="FZ_Pulse">Pulse</sys:String>
+
+    <!--  Debug  -->
+    <sys:String x:Key="FZ_DebugTitle">Motor Debug</sys:String>
+    <sys:String x:Key="FZ_DebugTips">To train the application on Min. and Max. value of movement please move the servoes to limit switches.</sys:String>
+    <sys:String x:Key="FZ_DebugOn">Debug On</sys:String>
+    <sys:String x:Key="FZ_DebugOff">Debug Off</sys:String>
+    <sys:String x:Key="FZ_ServoLocked">Servo Lock</sys:String>
+    <sys:String x:Key="FZ_ServoUnlocked">Servo Unlock</sys:String>
+
+    <sys:String x:Key="FZ_CurPosition">Current Position</sys:String>
+    <sys:String x:Key="FZ_MoveForward">Moving Forward</sys:String>
+    <sys:String x:Key="FZ_MoveBackward">Moving Backards</sys:String>
+    <sys:String x:Key="FZ_MoveReset">Reset</sys:String>
+    <sys:String x:Key="FZ_MotorPos">Current Position</sys:String>
+
+    <!--  Storage Grid  -->
+    <sys:String x:Key="FZ_GridSettingsTitle">Storage Grids</sys:String>
+    <sys:String x:Key="FZ_GridSettingsTips">The parameters on this page defines the storage grids of freezer.</sys:String>
+    <sys:String x:Key="FZ_AreaA">Area A</sys:String>
+    <sys:String x:Key="FZ_AreaB">Area B</sys:String>
+    <sys:String x:Key="FZ_Coloumns">Columns</sys:String>
+    <sys:String x:Key="FZ_Rows">Rows</sys:String>
+    <sys:String x:Key="FZ_EnableQ">Enabled?</sys:String>
+
+    <sys:String x:Key="FZ_StorageMode">Storage Mode</sys:String>
+    <sys:String x:Key="FZ_AccessPort">Access Port</sys:String>
+    <sys:String x:Key="FZ_SaveNInitTips">WARNNING: Save the settings on this page will erase all existing data and re-initilize the system!</sys:String>
+    <sys:String x:Key="FZ_StorageInitOK">Freezer storage information is initilizalized, please close the application and restart it manually.</sys:String>
+
+    <sys:String x:Key="FZ_GridWidth">Grid Width</sys:String>
+    <sys:String x:Key="FZ_GridHeight">Grid Height</sys:String>
+
+    <x:Array x:Key="FZ_StorageModeList" Type="{x:Type sys:String}">
+        <sys:String>Single Mode</sys:String>
+        <sys:String>Double Mode</sys:String>
+    </x:Array>
+
+    <sys:String x:Key="FZ_SetPulseTips">Set motor pulse on [Speed Settings] before the following:</sys:String>
+
+    <sys:String x:Key="FZ_GridRecordIDInvalid">Please select a valid grid!</sys:String>
+
+    <!--  Grid Positions  -->
+    <sys:String x:Key="FZ_GridPosTitle">Grid Positions</sys:String>
+    <sys:String x:Key="FZ_GridPosTips">The parameters on this page defines the position of each storage grid.</sys:String>
+    <sys:String x:Key="FZ_Grid0101">Grid 0101 Settings</sys:String>
+    <sys:String x:Key="FZ_GridPosAdj">Position Adjustment</sys:String>
+    <sys:String x:Key="FZ_CurMotorPosition">Current Positions</sys:String>
+    <sys:String x:Key="FZ_GridLocate">Move To</sys:String>
+    <sys:String x:Key="FZ_GridUseCurPos">Save Current</sys:String>
+    <sys:String x:Key="FZ_ResetY">Reset Y</sys:String>
+    <sys:String x:Key="FZ_ResetZ">Reset Z</sys:String>
+    <sys:String x:Key="FZ_Reset">Reset</sys:String>
+    <sys:String x:Key="FZ_GridCurOffset">Current Offset</sys:String>
+
+    <!--  Programs  -->
+    <sys:String x:Key="FZ_ProgSetTitle">Programs</sys:String>
+
+    <!--  Program Editor  -->
+    <sys:String x:Key="FZ_ProgEditorTitle">Testing</sys:String>
+    <sys:String x:Key="FZ_ProgEditorTips">View a listo of programs and testing with specified grid.</sys:String>
+    <sys:String x:Key="FZ_ProgList">Program List</sys:String>
+    <sys:String x:Key="FZ_ProgExecute">Execute</sys:String>
+    <sys:String x:Key="FZ_TextGrid">Text Grid</sys:String>
+
+    <!--  Program Settings  -->
+    <sys:String x:Key="FZ_ProgSettingsTitle">Program Settings</sys:String>
+    <sys:String x:Key="FZ_ProgSettingsTips">Please choose a program for each storage grid.</sys:String>
+
+    <sys:String x:Key="FZ_ProgDefaultWithdraw">Default Withdraw</sys:String>
+    <sys:String x:Key="FZ_ProgDefaultDeposit">Default Deposit</sys:String>
+    <sys:String x:Key="FZ_ProgCurrentWithdraw">Current Withdraw</sys:String>
+    <sys:String x:Key="FZ_ProgCurrentDeposit">Current Deposit</sys:String>
+
+    <sys:String x:Key="FZ_GridName">Grid Name</sys:String>
+    <sys:String x:Key="FZ_ProgOuterWithdraw">Outer Withdraw Prog</sys:String>
+    <sys:String x:Key="FZ_ProgOuterDeposit">Outer Deposit Prog</sys:String>
+    <sys:String x:Key="FZ_ProgInnerWithdraw">Inner Withdraw Prog</sys:String>
+    <sys:String x:Key="FZ_ProgInnerDeposit">Inner Deposit Prog</sys:String>
+
+</ResourceDictionary>

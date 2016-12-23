@@ -1,0 +1,35 @@
+set MyJob=12bf43147aa-chx-tmp1-r1
+set MyStep=pcb
+set MyChecklist=fff
+set MyLayer=comp
+
+
+
+
+
+
+
+# Current version
+setenv MyVerPath D:/InCAM/release_64_new
+setenv MyVer dev
+
+# Referance version
+setenv MyVerRefPath D:/InCAM/release_64_ref
+setenv MyVerRef 231dev
+
+# Last release version if needed
+#setenv MyVerLastPath D:/InCAM/release_64_2.22
+#setenv MyVerLast 2.22
+
+# DO NOT USE AN ABSOLUTE PATH, the script will fail with the command "mkdir -p" due to no permission 
+# 	when running with guiless on windows
+setenv MySnapshotPath ./result
+
+# If enable this, we use difference file instead of snapshot file
+setenv Guiless yes
+
+# If the value is true, the comparing layers will be created from result layers
+#setenv Analysis yes
+
+# If the value if no, the ref layer will not be created again to save time
+setenv RecreateRef no

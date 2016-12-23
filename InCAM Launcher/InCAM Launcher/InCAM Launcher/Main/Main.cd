@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InCAM_Launcher.MainForm">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EABJEMDwAjGQKBAEAAGBOACCACQ4ACBAACAUQQVQABI=</HashCode>
+      <FileName>Main\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InCAM_Launcher.InCAMInvoker">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAiAAAAQAAAAAAAAAEAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Main\InCAMInvoker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,14 @@
+c:\users\vicavo\documents\visual studio 2015\Projects\DownloadFilm\DownloadFilm\bin\Debug\DownloadFilm.exe.config
+c:\users\vicavo\documents\visual studio 2015\Projects\DownloadFilm\DownloadFilm\bin\Debug\DownloadFilm.exe
+c:\users\vicavo\documents\visual studio 2015\Projects\DownloadFilm\DownloadFilm\bin\Debug\DownloadFilm.pdb
+c:\users\vicavo\documents\visual studio 2015\Projects\DownloadFilm\DownloadFilm\obj\Debug\MainWindow.g.cs
+c:\users\vicavo\documents\visual studio 2015\Projects\DownloadFilm\DownloadFilm\obj\Debug\App.g.cs
+c:\users\vicavo\documents\visual studio 2015\Projects\DownloadFilm\DownloadFilm\obj\Debug\DownloadFilm_MarkupCompile.cache
+c:\users\vicavo\documents\visual studio 2015\Projects\DownloadFilm\DownloadFilm\obj\Debug\DownloadFilm_MarkupCompile.lref
+c:\users\vicavo\documents\visual studio 2015\Projects\DownloadFilm\DownloadFilm\obj\Debug\MainWindow.baml
+c:\users\vicavo\documents\visual studio 2015\Projects\DownloadFilm\DownloadFilm\obj\Debug\DownloadFilm.g.resources
+c:\users\vicavo\documents\visual studio 2015\Projects\DownloadFilm\DownloadFilm\obj\Debug\DownloadFilm.Properties.Resources.resources
+c:\users\vicavo\documents\visual studio 2015\Projects\DownloadFilm\DownloadFilm\obj\Debug\DownloadFilm.csproj.GenerateResource.Cache
+c:\users\vicavo\documents\visual studio 2015\Projects\DownloadFilm\DownloadFilm\obj\Debug\DownloadFilm.exe
+c:\users\vicavo\documents\visual studio 2015\Projects\DownloadFilm\DownloadFilm\obj\Debug\DownloadFilm.pdb
+c:\users\vicavo\documents\visual studio 2015\Projects\DownloadFilm\DownloadFilm\obj\Debug\DownloadFilm.csprojResolveAssemblyReference.cache

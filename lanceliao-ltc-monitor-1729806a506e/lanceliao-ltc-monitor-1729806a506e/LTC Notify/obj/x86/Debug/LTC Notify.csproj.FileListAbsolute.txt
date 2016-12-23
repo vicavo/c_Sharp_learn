@@ -1,0 +1,9 @@
+C:\Users\vicavo\Desktop\c_sharp_project\lanceliao-ltc-monitor-1729806a506e\lanceliao-ltc-monitor-1729806a506e\Bin\Debug\LTC Notify.exe
+C:\Users\vicavo\Desktop\c_sharp_project\lanceliao-ltc-monitor-1729806a506e\lanceliao-ltc-monitor-1729806a506e\Bin\Debug\LTC Notify.pdb
+C:\Users\vicavo\Desktop\c_sharp_project\lanceliao-ltc-monitor-1729806a506e\lanceliao-ltc-monitor-1729806a506e\LTC Notify\obj\x86\Debug\LTC_Notify.FloatWnd.resources
+C:\Users\vicavo\Desktop\c_sharp_project\lanceliao-ltc-monitor-1729806a506e\lanceliao-ltc-monitor-1729806a506e\LTC Notify\obj\x86\Debug\LTC_Notify.Form1.resources
+C:\Users\vicavo\Desktop\c_sharp_project\lanceliao-ltc-monitor-1729806a506e\lanceliao-ltc-monitor-1729806a506e\LTC Notify\obj\x86\Debug\LTC_Notify.NotifyWnd.resources
+C:\Users\vicavo\Desktop\c_sharp_project\lanceliao-ltc-monitor-1729806a506e\lanceliao-ltc-monitor-1729806a506e\LTC Notify\obj\x86\Debug\LTC_Notify.Properties.Resources.resources
+C:\Users\vicavo\Desktop\c_sharp_project\lanceliao-ltc-monitor-1729806a506e\lanceliao-ltc-monitor-1729806a506e\LTC Notify\obj\x86\Debug\LTC Notify.csproj.GenerateResource.Cache
+C:\Users\vicavo\Desktop\c_sharp_project\lanceliao-ltc-monitor-1729806a506e\lanceliao-ltc-monitor-1729806a506e\LTC Notify\obj\x86\Debug\LTC Notify.exe
+C:\Users\vicavo\Desktop\c_sharp_project\lanceliao-ltc-monitor-1729806a506e\lanceliao-ltc-monitor-1729806a506e\LTC Notify\obj\x86\Debug\LTC Notify.pdb

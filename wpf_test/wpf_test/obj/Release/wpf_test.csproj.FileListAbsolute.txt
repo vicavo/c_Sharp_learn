@@ -1,0 +1,14 @@
+c:\users\vicavo\documents\visual studio 2015\Projects\wpf_test\wpf_test\bin\Release\wpf_test.exe.config
+c:\users\vicavo\documents\visual studio 2015\Projects\wpf_test\wpf_test\bin\Release\wpf_test.exe
+c:\users\vicavo\documents\visual studio 2015\Projects\wpf_test\wpf_test\bin\Release\wpf_test.pdb
+c:\users\vicavo\documents\visual studio 2015\Projects\wpf_test\wpf_test\obj\Release\wpf_test.csprojResolveAssemblyReference.cache
+c:\users\vicavo\documents\visual studio 2015\Projects\wpf_test\wpf_test\obj\Release\MainWindow.g.cs
+c:\users\vicavo\documents\visual studio 2015\Projects\wpf_test\wpf_test\obj\Release\App.g.cs
+c:\users\vicavo\documents\visual studio 2015\Projects\wpf_test\wpf_test\obj\Release\wpf_test_MarkupCompile.cache
+c:\users\vicavo\documents\visual studio 2015\Projects\wpf_test\wpf_test\obj\Release\wpf_test_MarkupCompile.lref
+c:\users\vicavo\documents\visual studio 2015\Projects\wpf_test\wpf_test\obj\Release\MainWindow.baml
+c:\users\vicavo\documents\visual studio 2015\Projects\wpf_test\wpf_test\obj\Release\wpf_test.g.resources
+c:\users\vicavo\documents\visual studio 2015\Projects\wpf_test\wpf_test\obj\Release\wpf_test.Properties.Resources.resources
+c:\users\vicavo\documents\visual studio 2015\Projects\wpf_test\wpf_test\obj\Release\wpf_test.csproj.GenerateResource.Cache
+c:\users\vicavo\documents\visual studio 2015\Projects\wpf_test\wpf_test\obj\Release\wpf_test.exe
+c:\users\vicavo\documents\visual studio 2015\Projects\wpf_test\wpf_test\obj\Release\wpf_test.pdb
