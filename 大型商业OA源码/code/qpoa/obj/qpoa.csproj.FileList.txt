@@ -1,0 +1,5 @@
+bin\qpoa.dll
+bin\qpoa.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\qpoa.dll
+obj\Debug\qpoa.pdb

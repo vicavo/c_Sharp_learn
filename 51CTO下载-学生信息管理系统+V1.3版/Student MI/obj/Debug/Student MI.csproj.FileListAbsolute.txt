@@ -1,0 +1,323 @@
+D:\Excise\SMI\Student MI\Student MI\obj\Debug\ResolveAssemblyReference.cache
+D:\Excise\SMI\Student MI\Student MI\obj\Debug\Student_MI.Properties.Resources.resources
+D:\Excise\SMI\Student MI\Student MI\obj\Debug\Student MI.csproj.GenerateResource.Cache
+D:\Excise\SMI\Student MI\Student MI\bin\Debug\Student MI.exe
+D:\Excise\SMI\Student MI\Student MI\bin\Debug\Student MI.pdb
+D:\Excise\SMI\Student MI\Student MI\obj\Debug\Student MI.exe
+D:\Excise\SMI\Student MI\Student MI\obj\Debug\Student MI.pdb
+D:\Excise\SMI\Student MI\Student MI\obj\Debug\Student_MI.FormMain.resources
+D:\Excise\SMI\Student MI\Student MI\obj\Debug\Student_MI.FormLogin.resources
+F:\项目文档模板\Student MI\Student MI\obj\Debug\Student MI.exe
+F:\项目文档模板\Student MI\Student MI\obj\Debug\Student MI.pdb
+F:\项目文档模板\Student MI\Student MI\obj\Debug\ResolveAssemblyReference.cache
+F:\项目文档模板\Student MI\Student MI\obj\Debug\Student_MI.FormMain.resources
+F:\项目文档模板\Student MI\Student MI\obj\Debug\Student_MI.FormLogin.resources
+F:\项目文档模板\Student MI\Student MI\obj\Debug\Student_MI.Properties.Resources.resources
+F:\项目文档模板\Student MI\Student MI\obj\Debug\Student MI.csproj.GenerateResource.Cache
+F:\项目文档模板\Student MI\Student MI\obj\Debug\Student_MI.FormAccount.resources
+F:\项目文档模板\Student MI\Student MI\obj\Debug\Student_MI.FormCourse.resources
+F:\项目文档模板\Student MI\Student MI\obj\Debug\Student_MI.FormInquire.resources
+F:\项目文档模板\Student MI\Student MI\obj\Debug\Student_MI.FormModify.resources
+F:\项目文档模板\Student MI\Student MI\obj\Debug\Student_MI.FormSource.resources
+F:\项目文档模板\Student MI\Student MI\obj\Debug\Student_MI.FormStudents.resources
+F:\项目文档模板\Student MI\Student MI\bin\Debug\Student MI.exe
+F:\项目文档模板\Student MI\Student MI\bin\Debug\Student MI.pdb
+F:\项目文档模板\Student MI\Student MI\bin\Debug\Student MI.exe.config
+C:\Users\Toteam\Desktop\Student MI\Student MI\Student MI\bin\Debug\Student MI.exe.config
+C:\Users\Toteam\Desktop\Student MI\Student MI\Student MI\obj\Debug\Student MI.exe
+C:\Users\Toteam\Desktop\Student MI\Student MI\Student MI\obj\Debug\Student MI.pdb
+C:\Users\Toteam\Desktop\Student MI\Student MI\Student MI\bin\Debug\Student MI.exe
+C:\Users\Toteam\Desktop\Student MI\Student MI\Student MI\bin\Debug\Student MI.pdb
+C:\Users\Toteam\Desktop\Student MI\Student MI\Student MI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Toteam\Desktop\Student MI\Student MI\Student MI\obj\Debug\Student_MI.FormAccount.resources
+C:\Users\Toteam\Desktop\Student MI\Student MI\Student MI\obj\Debug\Student_MI.FormCourse.resources
+C:\Users\Toteam\Desktop\Student MI\Student MI\Student MI\obj\Debug\Student_MI.FormInquire.resources
+C:\Users\Toteam\Desktop\Student MI\Student MI\Student MI\obj\Debug\Student_MI.FormMain.resources
+C:\Users\Toteam\Desktop\Student MI\Student MI\Student MI\obj\Debug\Student_MI.FormLogin.resources
+C:\Users\Toteam\Desktop\Student MI\Student MI\Student MI\obj\Debug\Student_MI.FormModify.resources
+C:\Users\Toteam\Desktop\Student MI\Student MI\Student MI\obj\Debug\Student_MI.FormSource.resources
+C:\Users\Toteam\Desktop\Student MI\Student MI\Student MI\obj\Debug\Student_MI.FormStudents.resources
+C:\Users\Toteam\Desktop\Student MI\Student MI\Student MI\obj\Debug\Student_MI.Properties.Resources.resources
+C:\Users\Toteam\Desktop\Student MI\Student MI\Student MI\obj\Debug\Student MI.csproj.GenerateResource.Cache
+C:\Users\Toteam\Desktop\Student MI\Student MI\Student MI\obj\Debug\Student_MI.FormMenu.resources
+C:\Users\Toteam\Desktop\Student MIS\Student MIS\Student MI\bin\Debug\Student MI.exe.config
+C:\Users\Toteam\Desktop\Student MIS\Student MIS\Student MI\obj\Debug\Student MI.exe
+C:\Users\Toteam\Desktop\Student MIS\Student MIS\Student MI\obj\Debug\Student MI.pdb
+C:\Users\Toteam\Desktop\Student MIS\Student MIS\Student MI\bin\Debug\Student MI.exe
+C:\Users\Toteam\Desktop\Student MIS\Student MIS\Student MI\bin\Debug\Student MI.pdb
+C:\Users\Toteam\Desktop\Student MIS\Student MIS\Student MI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Toteam\Desktop\Student MIS\Student MIS\Student MI\obj\Debug\Student_MI.FormAccount.resources
+C:\Users\Toteam\Desktop\Student MIS\Student MIS\Student MI\obj\Debug\Student_MI.FormCourse.resources
+C:\Users\Toteam\Desktop\Student MIS\Student MIS\Student MI\obj\Debug\Student_MI.FormInquire.resources
+C:\Users\Toteam\Desktop\Student MIS\Student MIS\Student MI\obj\Debug\Student_MI.FormMain.resources
+C:\Users\Toteam\Desktop\Student MIS\Student MIS\Student MI\obj\Debug\Student_MI.FormLogin.resources
+C:\Users\Toteam\Desktop\Student MIS\Student MIS\Student MI\obj\Debug\Student_MI.FormMenu.resources
+C:\Users\Toteam\Desktop\Student MIS\Student MIS\Student MI\obj\Debug\Student_MI.FormModify.resources
+C:\Users\Toteam\Desktop\Student MIS\Student MIS\Student MI\obj\Debug\Student_MI.FormSource.resources
+C:\Users\Toteam\Desktop\Student MIS\Student MIS\Student MI\obj\Debug\Student_MI.FormStudents.resources
+C:\Users\Toteam\Desktop\Student MIS\Student MIS\Student MI\obj\Debug\Student_MI.Properties.Resources.resources
+C:\Users\Toteam\Desktop\Student MIS\Student MIS\Student MI\obj\Debug\Student MI.csproj.GenerateResource.Cache
+E:\新建文件夹 (5)\Student MIS\Student MI\bin\Debug\Student MI.exe.config
+E:\新建文件夹 (5)\Student MIS\Student MI\obj\Debug\Student MI.exe
+E:\新建文件夹 (5)\Student MIS\Student MI\obj\Debug\Student MI.pdb
+E:\新建文件夹 (5)\Student MIS\Student MI\bin\Debug\Student MI.exe
+E:\新建文件夹 (5)\Student MIS\Student MI\bin\Debug\Student MI.pdb
+E:\新建文件夹 (5)\Student MIS\Student MI\obj\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹 (5)\Student MIS\Student MI\obj\Debug\Student_MI.FormAccount.resources
+E:\新建文件夹 (5)\Student MIS\Student MI\obj\Debug\Student_MI.FormAddStudent.resources
+E:\新建文件夹 (5)\Student MIS\Student MI\obj\Debug\Student_MI.FormInquire.resources
+E:\新建文件夹 (5)\Student MIS\Student MI\obj\Debug\Student_MI.FormMain.resources
+E:\新建文件夹 (5)\Student MIS\Student MI\obj\Debug\Student_MI.FormLogin.resources
+E:\新建文件夹 (5)\Student MIS\Student MI\obj\Debug\Student_MI.FormMenu.resources
+E:\新建文件夹 (5)\Student MIS\Student MI\obj\Debug\Student_MI.FormModify.resources
+E:\新建文件夹 (5)\Student MIS\Student MI\obj\Debug\Student_MI.FormSource.resources
+E:\新建文件夹 (5)\Student MIS\Student MI\obj\Debug\Student_MI.FormStudents.resources
+E:\新建文件夹 (5)\Student MIS\Student MI\obj\Debug\Student_MI.Properties.Resources.resources
+E:\新建文件夹 (5)\Student MIS\Student MI\obj\Debug\Student MI.csproj.GenerateResource.Cache
+E:\新建文件夹 (5)\Student MIS\Student MI\obj\Debug\Student_MI.FormAddScore.resources
+E:\新建文件夹 (5)\Student MIS\Student MI\obj\Debug\Student_MI.FormAddCourse.resources
+E:\新建文件夹 (5)\Student MIS\Student MI\obj\Debug\Student_MI.FormAddAccount.resources
+E:\新建文件夹 (5)\Student MIS\Student MI\obj\Debug\Student_MI.Form1.resources
+C:\Users\Toteam\Desktop\Student MIS\Student MI\bin\Debug\Student MI.exe.config
+C:\Users\Toteam\Desktop\Student MIS\Student MI\obj\Debug\Student MI.exe
+C:\Users\Toteam\Desktop\Student MIS\Student MI\obj\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹 (5)\Student MIS\Student MI\obj\Debug\Student_MI.FormCourse.resources
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\bin\Debug\Student MI.exe.config
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\Student MI.exe
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\Student MI.pdb
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\bin\Debug\Student MI.exe
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\bin\Debug\Student MI.pdb
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\Student_MI.FormAccount.resources
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddAccount.resources
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddCourse.resources
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddScore.resources
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddStudent.resources
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\Student_MI.FormCourse.resources
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\Student_MI.FormInquire.resources
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\Student_MI.FormMain.resources
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\Student_MI.FormLogin.resources
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\Student_MI.FormMenu.resources
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\Student_MI.FormModify.resources
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\Student_MI.FormSource.resources
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\Student_MI.FormStudents.resources
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\Student_MI.Properties.Resources.resources
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\Student MI.csproj.GenerateResource.Cache
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\Student_MI.FormAbout.resources
+C:\Users\Toteam\Desktop\Student-MIS\Student-MIS\Student MI\obj\Debug\Student_MI.FormScoreManage.resources
+E:\新建文件夹 (4)\Student-MIS\Student MI\bin\Debug\Student MI.exe.config
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student MI.exe
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student MI.pdb
+E:\新建文件夹 (4)\Student-MIS\Student MI\bin\Debug\Student MI.exe
+E:\新建文件夹 (4)\Student-MIS\Student MI\bin\Debug\Student MI.pdb
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student_MI.FormAccount.resources
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddAccount.resources
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddCourse.resources
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddScore.resources
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddStudent.resources
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student_MI.FormCourse.resources
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student_MI.FormAbout.resources
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student_MI.FormInquire.resources
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student_MI.FormMain.resources
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student_MI.FormLogin.resources
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student_MI.FormMenu.resources
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student_MI.FormModify.resources
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student_MI.FormSource.resources
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student_MI.FormStudents.resources
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student_MI.Properties.Resources.resources
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student_MI.FormScoreManage.resources
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student MI.csproj.GenerateResource.Cache
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student_MI.SearchForm.FormCourseSearch.resources
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student_MI.SearchForm.FormAccountSearch.resources
+E:\新建文件夹 (4)\Student-MIS\Student MI\obj\Debug\Student_MI.SearchForm.FormStudentSearch.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\bin\Debug\Student MI.exe.config
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student MI.exe
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student MI.pdb
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\bin\Debug\Student MI.exe
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\bin\Debug\Student MI.pdb
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.FormAccount.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddAccount.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddCourse.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddScore.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddStudent.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.FormCourse.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.FormAbout.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.FormInquire.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.FormMain.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.FormLogin.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.FormMenu.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.FormModify.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.FormSource.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.FormStudents.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.Properties.Resources.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.SearchForm.FormAccountSearch.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.SearchForm.FormCourseSearch.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.FormScoreManage.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.SearchForm.FormStudentSearch.resources
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student MI.csproj.GenerateResource.Cache
+C:\Users\Toteam\Desktop\Student-MISS\Student-MIS\Student MI\obj\Debug\Student_MI.FormWelcome.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\bin\Debug\Student MI.exe.config
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student MI.exe
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student MI.pdb
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\bin\Debug\Student MI.exe
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\bin\Debug\Student MI.pdb
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.FormAccount.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddAccount.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddCourse.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddScore.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddStudent.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.FormCourse.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.FormAbout.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.FormInquire.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.FormMain.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.FormLogin.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.FormMenu.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.FormModify.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.FormSource.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.FormStudents.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.FormWelcome.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.Properties.Resources.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.SearchForm.FormAccountSearch.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.SearchForm.FormCourseSearch.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.FormScoreManage.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student_MI.SearchForm.FormStudentSearch.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终版\Student-MIS\Student MI\obj\Debug\Student MI.csproj.GenerateResource.Cache
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\bin\Debug\Student MI.exe.config
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student MI.exe
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student MI.pdb
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\bin\Debug\Student MI.exe
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\bin\Debug\Student MI.pdb
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.FormAccount.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddAccount.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddCourse.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddScore.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddStudent.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.FormCourse.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.FormAbout.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.FormInquire.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.FormMain.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.FormLogin.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.FormMenu.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.FormModify.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.FormSource.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.FormStudents.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.FormWelcome.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.Properties.Resources.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.SearchForm.FormAccountSearch.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.SearchForm.FormCourseSearch.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.FormScoreManage.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student_MI.SearchForm.FormStudentSearch.resources
+C:\Users\Toteam\Desktop\Student-MIS TEST\Student-MIS\Student MI\obj\Debug\Student MI.csproj.GenerateResource.Cache
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\bin\Debug\Student MI.exe.config
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student MI.exe
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student MI.pdb
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\bin\Debug\Student MI.exe
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\bin\Debug\Student MI.pdb
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.FormAccount.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddAccount.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddCourse.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddScore.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.FormAddStudent.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.FormCourse.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.FormAbout.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.FormInquire.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.FormMain.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.FormLogin.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.FormMenu.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.FormModify.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.FormSource.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.FormStudents.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.FormWelcome.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.Properties.Resources.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.SearchForm.FormAccountSearch.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.SearchForm.FormCourseSearch.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.FormScoreManage.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student_MI.SearchForm.FormStudentSearch.resources
+C:\Users\Toteam\Desktop\Student-MIS 最终第二版\Student-MIS\Student MI\obj\Debug\Student MI.csproj.GenerateResource.Cache
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\bin\Debug\Student MI.exe.config
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student MI.exe
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student MI.pdb
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\bin\Debug\Student MI.exe
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\bin\Debug\Student MI.pdb
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.FormAccount.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.FormAddAccount.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.FormAddCourse.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.FormAddScore.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.FormAddStudent.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.FormCourse.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.FormAbout.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.FormInquire.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.FormMain.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.FormLogin.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.FormMenu.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.FormModify.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.FormSource.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.FormStudents.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.FormWelcome.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.Properties.Resources.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.SearchForm.FormAccountSearch.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.SearchForm.FormCourseSearch.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.FormScoreManage.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student_MI.SearchForm.FormStudentSearch.resources
+C:\Users\Toteam\Desktop\Student-MIS 无权限版\Student MI\obj\Debug\Student MI.csproj.GenerateResource.Cache
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\bin\Debug\Student MI.exe.config
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student MI.exe
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student MI.pdb
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\bin\Debug\Student MI.exe
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\bin\Debug\Student MI.pdb
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.FormAccount.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.FormAddAccount.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.FormAddCourse.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.FormAddScore.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.FormAddStudent.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.FormCourse.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.FormAbout.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.FormInquire.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.FormMain.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.FormLogin.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.FormMenu.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.FormModify.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.FormSource.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.FormStudents.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.FormWelcome.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.Properties.Resources.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.SearchForm.FormAccountSearch.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.SearchForm.FormCourseSearch.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.FormScoreManage.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.SearchForm.FormStudentSearch.resources
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student MI.csproj.GenerateResource.Cache
+C:\Users\Toteam\Desktop\Student-MIS 加权限版\Student MI\obj\Debug\Student_MI.FormMainWindow.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\bin\Debug\Student MI.exe.config
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\bin\Debug\Student MI.exe
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\bin\Debug\Student MI.pdb
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.FormAccount.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.FormAddAccount.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.FormAddCourse.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.FormAddScore.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.FormAddStudent.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.FormCourse.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.FormAbout.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.FormInquire.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.FormMain.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.FormLogin.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.FormMainWindow.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.FormMenu.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.FormModify.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.FormSource.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.FormStudents.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.FormWelcome.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.Properties.Resources.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.SearchForm.FormAccountSearch.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.SearchForm.FormCourseSearch.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.FormScoreManage.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student_MI.SearchForm.FormStudentSearch.resources
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student MI.csproj.GenerateResource.Cache
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student MI.exe
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student MI.pdb

@@ -1,0 +1,481 @@
+<HTML>
+	<HEAD>
+		<title>Time</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+		<meta content="Microsoft Visual Studio 7.0" name="GENERATOR">
+		<meta content="C#" name="CODE_LANGUAGE">
+		<meta content="JavaScript" name="vs_defaultClientScript">
+		<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+		<style> .tdToday{CURSOR:hand;COLOR: yellow; BACKGROUND-COLOR: #669AC1;VISIBILITY: visible}
+	.tdLastSelect{CURSOR:hand;COLOR: yellow; BACKGROUND-COLOR: #669AC1;VISIBILITY: visible}
+	.tdDayOff{CURSOR:hand;COLOR:red; BACKGROUND-COLOR: buttonface;VISIBILITY: visible}
+	.tdMonth{CURSOR:hand;COLOR: black; BACKGROUND-COLOR: buttonface;VISIBILITY: visible}
+	.tdOther{CURSOR:default;COLOR: black; BACKGROUND-COLOR:buttonface ;VISIBILITY: visible}
+	.tdTime{COLOR: yellow; BACKGROUND-COLOR: background;VISIBILITY: visible}
+	.tdPrior{CURSOR:hand;COLOR: yellow; BACKGROUND-COLOR: #669AC1;VISIBILITY: visible; TEXT-ALIGN: right}
+	.tdNext{CURSOR:hand;COLOR: yellow; BACKGROUND-COLOR: #669AC1;VISIBILITY: visible; TEXT-ALIGN: left}
+	.tdMouseOver{CURSOR:hand;COLOR:green;VISIBILITY: visible}
+	.tdMonthOver{CURSOR:hand; BACKGROUND-COLOR: white;VISIBILITY: visible}
+	.tdDayOffOver{CURSOR:hand;COLOR:red; BACKGROUND-COLOR: white;VISIBILITY: visible}
+	.tdLastSelectOver{CURSOR:hand;COLOR: yellow; BACKGROUND-COLOR: white;VISIBILITY: visible}
+	.tdTodayOver{CURSOR:hand;COLOR: yellow; BACKGROUND-COLOR: white;VISIBILITY: visible}
+		</style>
+		<script language="javascript">
+			var idLastSelect;                        //*上次输入的日期
+			var ilHeadRow= 2                         //*日期上的抬头行数
+			var idToday = new Date();                //*获取当前日期
+			
+			var ilYear  = idToday.getFullYear();     //*日历年度
+			var ilMonth = idToday.getMonth();        //*日历月份
+			var ilDate  = idToday.getDate();         //*日历日期
+			var ilHour  = idToday.getHours();        //*日历时
+			var ilMin   = idToday.getMinutes();      //*日历分
+			
+			var ibDate  = false;
+			function Compute()		                 //*计算月份数据并填入
+			{
+				var lDates,lWeeks;				      //*当前月天数,礼拜数
+				var lFirstDay,lLastDay;               //*获取当前月份第一天和最后一天的礼拜几
+				var i = 1,lWeek,lDay;                 //*第几天、礼拜数、礼拜几 
+				
+				var dDate;                            //*日期（临时）
+				
+				lDates = GetDates();
+				
+				dDate = new Date(ilYear,ilMonth,1);
+				lFirstDay = dDate.getDay();           
+				
+				dDate = new Date(ilYear,ilMonth,lDates);
+				lLastDay = dDate.getDay();
+				
+				lWeeks = (lDates + lFirstDay + (6 - lLastDay))/7;
+				
+				
+				document.all("sp_year").innerText = ilYear + "年"; //*设置年度
+				document.all("ddl_year").value=ilYear;
+				
+				document.all("sp_month").innerText = ( 1 + ilMonth) + "月";//*设置月份
+				document.all("ddl_month").value=ilMonth
+				
+				for(lWeek = 0;lWeek < 6 ;lWeek++)          //*按礼拜数进行循环处理
+				{	
+					var row = Calender.rows[ilHeadRow + lWeek];
+					var cell;
+					//if(lWeek >= lWeeks)
+					//{
+					//	hide(row);             //*隐藏行 
+					//	continue;
+					//}
+					//show(row);                //*显示行
+					
+					for(lDay = 0;lDay < 7;lDay++)					//*礼拜内进行循环处理
+					{
+						
+						cell = row.cells[lDay];                    //*获取单元格
+												
+						if(lWeek>=lWeeks||(lWeek == 0 && lDay < lFirstDay)||(lWeek == lWeeks - 1 && lDay > lLastDay ))  //*非本月日期不显示信息
+						{
+							cell.innerText = "　";
+							cell.className = "tdOther";
+							cell.onclick   = "";
+							cell.onmouseover = "";
+							cell.onmouseout  = "";
+							continue
+						}
+						
+																				
+						
+						
+						if(i == idToday.getDate()&&ilMonth == idToday.getMonth()&&ilYear == idToday.getFullYear()) 
+							cell.className = "tdToday";        //*当天日期显示
+						else if(lDay == 0 || lDay == 6)
+							cell.className = "tdDayOff";   //*周末显示
+						else
+							cell.className = "tdMonth";
+						if(idLastSelect != null)
+						{
+								if (i == idLastSelect.getDate()&&ilMonth == idLastSelect.getMonth()&&ilYear == idLastSelect.getFullYear()) 
+								cell.className = "tdLastSelect"; //*上次输入日期
+								
+						}
+						
+						cell.innerText = i;
+						i = i + 1;	
+						cell.onclick     =  new Function ("MonthClick(this)")
+						cell.oldclass    = cell.className;
+						cell.onmouseover = new Function ("MouseOver(this)");
+						cell.onmouseout  = new Function ("MouseOut(this)");
+										
+					 }
+						
+				 }
+				 
+			}
+			function MouseOver(cell)         //*鼠标移过  
+			{
+				cell.oldclass  = cell.className;
+				cell.className = cell.className + "Over";
+				//cell.style.backgroundColor = "white";
+				
+				
+			} 
+			function MouseOut(cell)          //*鼠标移出
+			{	
+				cell.className = cell.oldclass;
+				//cell.style.backgoundColor = "";
+			}
+			function show(row)                //*显示某行
+			{
+				row.style.visibility = "visible";
+				for(i = 0;i < 7;i++)
+				{
+					row.cells[i].style.visibility = "visible";
+				}
+				
+			}
+			function hide(row)               //*隐藏某行
+			{
+				row.style.visibility = "hidden";
+				for(i = 0;i < 7;i++)
+				{
+					row.cells[i].style.visibility = "hidden";
+				}
+			
+			}
+			function GetDates()                //*获取当前年度和月份的天数(8月31日 = 9月0日）
+			{
+				var dDate = new Date(ilYear,ilMonth + 1,0);
+				return dDate.getDate();
+			}
+			function GetParm()                //*获取参数信息
+			{
+				var oParm = window.dialogArguments;
+				var sParm,dParm;
+			    var sSpace = "";
+			    var lYear,lMonth,lDate,lHour,lMin;
+				dParm = oParm.LastSelect;
+				sParm = oParm.DocumentTitle;
+				if(dParm == null||dParm == "") dParm = new Date();
+							
+				lYear  = dParm.getFullYear();
+				lMonth = dParm.getMonth();
+				lDate  = dParm.getDate();
+				lHour  = dParm.getHours();
+				lMin   = dParm.getMinutes();
+				if(!isNaN(lYear)&&!isNaN(lMonth))
+				{
+					idLastSelect = new Date(lYear,lMonth,lDate);
+					ilYear  = lYear;
+					ilMonth = lMonth;
+					ilDate  = lDate;
+					ilHour  = lHour;
+					ilMin   = lMin;
+					
+						
+					document.all("ddl_hour").value=ilHour;
+					document.all("ddl_min").value=ilMin;
+				}
+				
+				
+				if(sParm!=null&&sParm!="") document.title = sParm;
+				
+				if(oParm.DataType == "DateTime")
+				{
+					ibDate = false;
+				}
+				else//(oParm.DataType == null||oParm.DataType=="Date")
+				{
+					ibDate = true;
+					document.all("divDateTime").left=0;
+					document.all("divDateTime").top=0;
+					document.all("divDateTime").style.display="none";
+				
+				}
+			}
+			function OtherClick(cell)       //*单击非本月日期
+			{
+				return false
+			}
+			function MonthClick(cell)       //*单击本月日期
+			{
+				ilDate = parseInt(cell.innerText,10);
+								
+				if(ibDate)
+				 OkClose();
+				else
+				{
+					idLastSelect = new Date(ilYear,ilMonth,ilDate,ilHour,ilMin);
+					Compute();
+				}
+			}
+			function StringToLen(s,len)
+			{
+				//alert(s.length)
+				s = s.toString();
+				if(s.length < len)
+				{
+					for(var i=0;i<len - s.length;i++)
+					{
+						s = "0" + s;
+					}
+				}
+				return s;
+			}
+			function OkClose()
+			{
+				var sDate = ilYear + "-" + StringToLen(ilMonth + 1,2) + "-" + StringToLen(ilDate,2);
+				if(!ibDate) sDate += " " + StringToLen(ilHour,2) + ":" + StringToLen(ilMin,2);
+				
+				window.returnValue = sDate;
+				window.close()
+			}
+	
+			function tcClose()
+			{
+			
+				
+				window.returnValue = "";
+				window.close()
+			}
+				
+			
+			function NextMonth()
+			{
+				if(ilMonth == 11)
+				{
+					ilYear += 1;
+					ilMonth = 0;
+				}
+				else
+				{
+					ilMonth += 1;
+				}
+				Compute();
+								
+			}
+			function PriorMonth()
+			{
+				if(ilMonth == 0)
+				{
+					ilYear -= 1;
+					ilMonth = 11
+				}
+				else
+				{
+					ilMonth -= 1;
+				}
+				Compute();
+			}
+			function changeMonth()
+			{
+				ilMonth = parseInt(document.all("ddl_month").value,10);
+				Compute();
+			}
+			
+			function changeYear()
+			{
+				ilYear = parseInt(document.all("ddl_year").value,10);
+				Compute();
+			}
+			function changeMin()
+			{
+				ilMin = parseInt(document.all("ddl_min").value,10);
+			
+			}
+			function changeHour()
+			{
+				ilHour = parseInt(document.all("ddl_hour").value,10);
+			
+			}
+			
+			function NextYear()
+			{
+				ilYear += 1;
+				Compute();
+			}
+			function PriorYear()
+			{
+				ilYear -=  1;
+				Compute();
+			}
+			function dataShowHide(asShow,asHide)
+			{
+				if(document.all(asShow).style.display!="block")
+					document.all(asShow).style.display="block";
+				if(document.all(asHide).style.display!="none")
+					document.all(asHide).style.display="none";
+			}
+			function bodyClick()
+			{
+				var id = event.srcElement.id;
+				if(id.indexOf("year") <0) dataShowHide("sp_year","ddl_year");
+				if(id.indexOf("month")<0) dataShowHide("sp_month","ddl_month");
+			}
+			function initData()
+			{
+			var i;
+			//*年
+			for(i=1900;i<=2099;i++)
+			{
+				var oYear = document.createElement("OPTION");
+				oYear.value=i;
+				oYear.text=i+"年";
+				document.all("ddl_year").options.add(oYear);
+			}
+			//*月
+			for(i=0;i<12;i++)
+			{
+				var oMonth = document.createElement("OPTION");
+				oMonth.value=i;
+				oMonth.text=(i+1)+"月";
+				document.all("ddl_month").options.add(oMonth);
+			}
+			//*小时
+			for(i=0;i<24;i++)
+			{
+				var oHour = document.createElement("OPTION");
+				oHour.value=i;
+				oHour.text=i+"时";
+				document.all("ddl_hour").options.add(oHour);
+			}
+			
+			//*分
+			for(i=0;i<60;i++)
+			{
+				var oMin = document.createElement("OPTION");
+				oMin.value=i;
+				oMin.text=i+"分";
+				document.all("ddl_min").options.add(oMin);
+			}
+			}
+
+		</script>
+	</HEAD>
+	<body style="BACKGROUND-COLOR: buttonface" onclick="bodyClick()" MS_POSITIONING="GridLayout">
+		<form id="DateSelect" method="post" runat="server">
+			<TABLE id="Calender" style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: x-small; Z-INDEX: 101; LEFT: 2px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 208px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; POSITION: absolute; TOP: 0px; TEXT-ALIGN: center; BORDER-BOTTOM-STYLE: none"
+				height="170" cellSpacing="0" width="180" border="1">
+				<tr style="BACKGROUND-COLOR: #b4ddf3">
+					<td id="td_year" style="HEIGHT: 30px; TEXT-ALIGN: center" colSpan="7">
+						<table class="Table2" id="YearMonth">
+							<tr>
+								<td class="tdPrior" onclick="PriorYear()">&lt;&lt;
+								</td>
+								<td class="tdTime" style="WIDTH:62px;TEXT-ALIGN:center" onclick="dataShowHide('ddl_year','sp_year')"
+									noWrap><span id="sp_year"></span>
+									<SELECT class="tdTime" id="ddl_year" onblur="dataShowHide('sp_year','ddl_year')" style="DISPLAY: none; WIDTH: 65px"
+										onchange="changeYear()">
+									</SELECT>
+								</td>
+								<td class="tdNext" onclick="NextYear()">&gt;&gt;
+								</td>
+								<td class="tdPrior" onclick="PriorMonth()">&lt;&lt;
+								</td>
+								<td style="WIDTH: 48px; TEXT-ALIGN: center" class="tdTime" id="td_month" onclick="dataShowHide('ddl_month','sp_month')"
+									noWrap>
+									<span id="sp_month"></span>
+									<SELECT class="tdTime" id="ddl_month" onblur="dataShowHide('sp_month','ddl_month')" style="DISPLAY: none; WIDTH: 45px"
+										onchange="changeMonth()">
+									</SELECT>
+								</td>
+								<td class="tdNext" onclick="NextMonth()">&gt;&gt;
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<TR style="COLOR: yellow; BACKGROUND-COLOR: background">
+					<th>
+						日</th>
+					<th>
+						一</th>
+					<th>
+						二</th>
+					<th>
+						三
+					</th>
+					<th>
+						四
+					</th>
+					<th>
+						五
+					</th>
+					<th>
+						六
+					</th>
+				</TR>
+				<tr>
+					<td style="CURSOR: auto"></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td><FONT face="宋体"></FONT></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td><FONT face="宋体"></FONT></td>
+				</tr>
+			</TABLE>
+			<DIV id="divDateTime" style="Z-INDEX: 106; LEFT: 2px; WIDTH: 208px; POSITION: absolute; TOP: 176px; HEIGHT: 24px"
+				ms_positioning="GridLayout">
+			
+					
+				<INPUT id="ok" onclick="OkClose()" style="FONT-SIZE: x-small; Z-INDEX: 107; LEFT: 168px; WIDTH: 38px; POSITION: absolute; TOP: 0px; HEIGHT: 24px"
+					type="button" value="确定" name="Button1">
+				<SELECT class="tdTime" id="ddl_min" style="Z-INDEX: 107; LEFT: 104px; WIDTH: 56px; POSITION: absolute; TOP: 0px"
+					onchange="changeMin()">
+				</SELECT>
+				<SELECT class="tdTime" id="ddl_hour" style="Z-INDEX: 107; LEFT: 40px; WIDTH: 56px; POSITION: absolute; TOP: 0px"
+					onchange="changeHour()">
+				</SELECT>
+				<DIV style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: x-small; Z-INDEX: 107; LEFT: 0px; WIDTH: 40px; POSITION: absolute; TOP: 0px; HEIGHT: 19px"
+					ms_positioning="FlowLayout">	<INPUT id="Button1" onclick="tcClose()" 
+					type="button" value="清空" name="Button1"></DIV>
+			</DIV>
+		</form>
+		<script>initData();	GetParm();Compute();</script>
+	</body>
+</HTML>

@@ -1,0 +1,354 @@
+/* 新 Web 应用程序项目的默认 CSS Stylesheet */
+
+BODY, TD, P, LI, INPUT,  TEXTAREA, UL, DL, LABEL, SPAN
+{
+	 MARGIN: 0px ;SCROLLBAR-FACE-COLOR: #dee3e7; FONT-SIZE: 12px; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #dee3e7; COLOR: #000000; SCROLLBAR-3DLIGHT-COLOR: #d1d7dc; SCROLLBAR-ARROW-COLOR: #006699; SCROLLBAR-TRACK-COLOR: #efefef; FONT-FAMILY: 宋体; SCROLLBAR-DARKSHADOW-COLOR: #98aab1;
+	font-weight: normal;
+	font-size: 12px;
+	word-spacing: normal;
+	text-transform: none;
+	font-family: Verdana, Helvetica, sans-serif;
+	letter-spacing: normal;
+	color:#000000;
+}
+.mainDiv {  overflow-x: auto; WIDTH: expression(document.body.clientWidth-35); HEIGHT: expression((document.body.clientHeight-this.offsetTop-2>this.children[0].offsetHeight)?(this.children[0].offsetHeight+20) : (document.body.clientHeight-this.offsetTop-30)) } 
+
+.headtd
+{
+	
+	
+	font-size: 12px;
+	word-spacing: normal;
+	text-transform: none;
+	font-family: Verdana, Helvetica, sans-serif;
+	letter-spacing: normal;
+	color:#ffffff;
+}
+
+.textbox
+{
+	border-right: #666666 0px solid;
+	border-top: #666666 0px solid;
+	font-size: 12px;
+	border-left: #666666 0px solid;
+	color: #000000;
+	border-bottom: #666666 0px solid;
+	font-family: "宋体";
+	background-color: #ffffff;
+	
+	padding:2px;
+	
+	
+}	
+
+.nextpage{
+	BACKGROUND-COLOR: #36B3E4;
+}
+
+.textboxnothing
+{
+	
+	
+	border-right: 0px;
+	border-top:0px ;
+	font-size: 12px;
+	border-left:  #000000 1px;
+	color: #000000;
+	border-bottom: #000000 1px;
+	font-family: "宋体";
+	background-color: #ffffff;
+	padding:2px;
+	
+}	
+
+.newbody
+{
+	background-color:#FDFCFE;
+}
+
+.newtitle
+{
+	background-image: url(header_bg.gif);
+}
+
+.newtable
+{
+	background-color:#06A8FF;
+}
+
+
+.newtd1
+{
+	background-color:#F0FAFF;
+}
+
+.newtd2
+{
+	background-color:#ffffff;
+}
+
+
+
+
+A:link
+{
+	font-size: 12px;
+	color: #000000;
+	text-decoration: underline;
+}	
+		
+A:visited
+{
+	font-size: 12px;
+	color: #000000;
+	text-decoration: underline;
+}	
+		
+A:active
+{
+	color: #CF7500;
+	text-decoration: none;
+}	
+		
+A:hover
+{
+	color: #CF7500;
+	
+	text-decoration: none;
+}
+
+
+A.write:link
+{
+	font-size: 12px;
+	color: #ffffff;
+	text-decoration: none;
+}	
+		
+A.write:visited
+{
+	font-size: 12px;
+	color: #ffffff;
+	text-decoration: none;
+}	
+		
+A.write:active
+{
+	color: #ffffff;
+	text-decoration: underline;
+}	
+		
+A.write:hover
+{
+	color: #ffffff;
+	
+	text-decoration: underline;
+}
+
+
+
+A.line:link
+{
+	font-size: 12px;
+	color: #000000;
+	text-decoration: underline;
+}	
+		
+A.line:visited
+{
+	font-size: 12px;
+	color: #000000;
+	text-decoration: underline;
+}	
+		
+A.line:active
+{
+	color: #F96900;
+	text-decoration: underline;
+}	
+		
+A.line:hover
+{
+	color: #F96900;
+	
+	text-decoration: underline;
+}
+
+
+A.line_b:link
+{
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}	
+		
+A.line_b:visited
+{
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}	
+		
+A.line_b:active
+{
+	font-size: 12px;
+	color: #CF7500;
+	text-decoration: none;
+}	
+		
+A.line_b:hover
+{
+	font-size: 12px;
+	color: #CF7500;
+	text-decoration: none;
+}
+
+
+A.line_w:link
+{
+	font-size: 12px;
+	color: #ffffff;
+	text-decoration: none;
+}	
+		
+A.line_w:visited
+{
+	font-size: 12px;
+	color: #ffffff;
+	text-decoration: none;
+}	
+		
+A.line_w:active
+{
+	color: #ffffff;
+	text-decoration: underline;
+}	
+		
+A.line_w:hover
+{
+	color: #ffffff;
+	
+	text-decoration: underline;
+}
+
+
+A.line_l:link
+{
+	font-size: 12px;
+	color: #0000FF;
+	text-decoration: none;
+}	
+		
+A.line_l:visited
+{
+	font-size: 12px;
+	color: #0000FF;
+	text-decoration: none;
+}	
+		
+A.line_l:active
+{
+	color: #000000;
+	text-decoration: underline;
+}	
+		
+A.line_l:hover
+{
+	color: #000000;
+	
+	text-decoration: underline;
+}
+
+
+
+A.line_red_l:link
+{
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}	
+		
+A.line_red_l:visited
+{
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}	
+		
+A.line_red_l:active
+{
+	color: #FF0000;
+	text-decoration: underline;
+}	
+		
+A.line_red_l:hover
+{
+	color: #FF0000;
+	
+	text-decoration: underline;
+}
+
+
+
+.button_blue
+{
+	border-right: #94C3CE 0px solid;
+	border-top: #94C3CE 0px solid;
+	border-left: #94C3CE 0px solid;
+	border-bottom: #94C3CE 0px solid;
+	height:18px;
+	color: #ffffff;
+	font-family: "宋体";
+	font-size: 12px;
+	background-image: url(11.gif);
+	
+	text-decoration: none;
+	
+}	
+
+.textbox_show
+{
+	
+	
+	font-size: 12px;
+	
+	color: #000000;
+	
+	font-family: "宋体";
+	background-color: #FDF7FC;
+	border-style:Groove;
+	text-decoration: none;
+	
+}	
+
+.datadownlist
+{ 
+	
+
+	background-color:#e9f0f8;
+	font-size:12px;
+	color:#666666;
+	
+	
+	
+}
+
+.tddisp {
+	DISPLAY: none
+	
+}
+	
+
+	
+
+.Twhname1 {
+	FONT-SIZE: 12px;
+	FONT-FAMILY: 宋体;
+	
+    BORDER-RIGHT: 0px solid;
+    BORDER-TOP: 0px solid;
+    BORDER-LEFT: 0px solid;
+    BORDER-BOTTOM:  1px solid;
+
+}
+

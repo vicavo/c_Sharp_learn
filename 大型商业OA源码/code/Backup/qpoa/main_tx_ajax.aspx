@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="main_tx_ajax.aspx.cs" Inherits="qpoa.sound.main_tx_ajax" %>

@@ -1,0 +1,62 @@
+*{margin:0px;padding:0px;}
+html { overflow-y: scroll; }
+A:link{color: #000000; TEXT-DECORATION: none;}
+A:visited {COLOR: #000000; TEXT-DECORATION: none}
+A:active {COLOR: #3333ff; TEXT-DECORATION: none}
+A:hover {COLOR: #ff0000; TEXT-DECORATION: none}
+
+.panel{ background: #E2E5E6; color:#000000;}
+#expand_link{
+   right:1px;top:0px;
+   left:150px;
+   position:absolute;
+   font-size:9pt;
+   text-decoration: underline;
+}
+
+ul {
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+
+
+
+ .L22 a:link, .L22 a:visited{
+   color: #444659;
+   background:  none;
+   height: 20px;
+   font-size:9pt;
+   display: block;
+   text-decoration: none;
+   padding-left: 0;
+}
+
+ .L22 a:link span, .L22 a:visited span{
+  vertical-align:middle;
+  padding:0px 0px 0px 0px;
+  background: url("ar.png") no-repeat left;
+  cursor:pointer;
+  width:100%;
+}
+
+.L22 a:link span, .L22 a:visited span{
+  background:none;
+}
+
+ .L22 a:hover{
+   background: url("menu2_bg.png") no-repeat top left;
+}
+
+.L22 a:link.active, .L22 a:hover.active, .L22 a:active.active, .L22 a:visited.active
+{
+   background: url("menu2_bg.png") no-repeat left;
+   background-position: 0 -1px;
+   font-weight:normal;
+}
+.L22 a:link.active span, .L22 a:hover.active span, .L22 a:active.active span, .L22 a:visited.active span
+{
+   color: #000000;
+   background: none;
+}
+
