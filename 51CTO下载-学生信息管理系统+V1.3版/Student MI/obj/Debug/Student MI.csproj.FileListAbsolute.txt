@@ -321,3 +321,4 @@ E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Studen
 E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student MI.csproj.GenerateResource.Cache
 E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student MI.exe
 E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student MI.pdb
+E:\Github_repo\c_Sharp_learn\51CTO下载-学生信息管理系统+V1.3版\Student MI\obj\Debug\Student MI.csprojResolveAssemblyReference.cache
